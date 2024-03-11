@@ -4,6 +4,6 @@ ___
 
 ___
 Установка проекта (команды в терминале) и запуск:
-1. git clone https://github.com/Bednyakov/ProjectLife.git
+1. git clone https://github.com/aman-or/game_of_life.git
 2. pip install -r requirements.txt
 3. Запустить файл app.py
